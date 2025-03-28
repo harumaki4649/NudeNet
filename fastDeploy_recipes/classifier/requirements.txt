@@ -1,1 +1,2 @@
 nudenet==2.0.8
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
